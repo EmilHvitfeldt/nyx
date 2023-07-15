@@ -21,3 +21,4 @@ pak::pak("emilhvitfeldt/nyx")
 ## Todo / Idea
 
 - [ ] Would be great if the possible options could be read from the a local file, possibly from the theme/template that is used.
+- [ ] Selection menu should ideally support SVGs/images, this way the user can see what they get
