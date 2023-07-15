@@ -12,3 +12,5 @@ RoxygenNote: 7.2.3
 Imports: 
     rstudioapi,
     shiny
+URL: https://github.com/EmilHvitfeldt/nyx
+BugReports: https://github.com/EmilHvitfeldt/nyx/issues
